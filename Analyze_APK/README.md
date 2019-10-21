@@ -1,6 +1,9 @@
 # Instruction
-  1. GetMessage包含的是获取apk权限信息的类
-  2. 在 Analyze_APK\GetMessage\dist\main.exe 可以显示所有应用的权限
+  - GetMessage:             包含的是获取apk权限信息的类
+    -- dist:                放着生成的可执行文件
+      --- main.exe:         可执行文件
+    -- AboutMessage.py:     获取apk信息的模块
+    -- main.py:             暂时用来读取和显示信息
   
 # How to use
   1. 关于main.exe，下载后在main.exe同目录下新建一个名为Apks的文件夹
