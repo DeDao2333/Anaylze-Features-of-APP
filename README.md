@@ -7,3 +7,5 @@
   2. 更改test_readingApp里面的absPath，变成你当前apk的绝对路径。
   
 # 需求分析
+  1. 统计各类app权限，做成饼状图
+  2. 对app进行危险度数评级
